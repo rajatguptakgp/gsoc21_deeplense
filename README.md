@@ -6,9 +6,9 @@ Evaluation Tasks for **Google Summer of Code (GSOC) 2021**
 
 | Task | Metric | Value  |
 | :---:   | :-: | :-: |
-| 2 | AUC | 0.853 |
+| 2 | AUROC | 0.853 |
 | 3 | Test MSE | 2.449 |
-| 4 | AUC | 0.973 |
+| 4 | AUROC | 0.973 |
 
 ## Strategy
 
